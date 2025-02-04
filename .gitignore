@@ -1,0 +1,6 @@
+# Ignore compiled files
+/bin/
+/vendor/
+
+# Ignore sensitive environment files
+.env
